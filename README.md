@@ -1,1 +1,4 @@
-This is a simple speech to text converter app maded with html css and javascript![Screenshot 2024-08-29 170917](https://github.com/user-attachments/assets/c0e8ba38-327a-4512-a27a-e4aaebc90c31)
+This is a simple speech to text converter app maded with html css and javascript
+
+
+<img width="1385" height="908" alt="Screenshot 2025-09-20 141029" src="https://github.com/user-attachments/assets/be24792b-8e55-4d18-8380-2fef0095437d" />
