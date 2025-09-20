@@ -73,7 +73,7 @@ button:active {
   transition: 0.3s;
 }
 
-/* Responsive tweaks */
+
 @media (max-width: 600px) {
   #textarea {
     font-size: 0.9rem;
@@ -85,3 +85,4 @@ button:active {
     padding: 8px 15px;
   }
 }
+
